@@ -5,14 +5,11 @@ public class LoopingReview {
 
 		int i = 1;
 
-		if(i<1) {
+		if (i < 1) {
 			System.out.println(i);
 			i++;
 
-		}; 
-		
-		
-		while (i <= 10);
+		}
 
 	}
 }
